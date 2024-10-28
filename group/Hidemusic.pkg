@@ -1,0 +1,15 @@
+;Hidemusic.pkg
+
+;Language - standard language definitions
+&EN
+
+#{"Hidemusic"},(0x0481a49d),1,0,0
+
+;Supports Series 60 v 0.9
+(0x101F6F88), 0, 0, 0, {"Series60ProductID"}
+
+"\epoc32\release\armi\urel\hidemusic.app"-"!:\system\apps\hidemusic\hidemusic.app"
+"\epoc32\release\armi\urel\hidemusic.rsc"-"!:\system\apps\hidemusic\hidemusic.rsc"
+"\epoc32\release\armi\urel\hidemusic_caption.rsc"-"!:\system\apps\hidemusic\hidemusic_caption.rsc"
+"\epoc32\release\armi\urel\hidemusic.aif"-"!:\system\apps\hidemusic\hidemusic.aif"
+
